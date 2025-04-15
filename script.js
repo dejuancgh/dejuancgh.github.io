@@ -15,4 +15,3 @@ document.querySelector("form").addEventListener("submit", function(event) {
     // Provide feedback to the user (you could display a success message here)
     alert("Thank you for contacting us! We will get back to you shortly.");
 });
-h
