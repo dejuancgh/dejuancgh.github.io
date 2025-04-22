@@ -86,8 +86,8 @@ footer {
   text-align: center;
   padding: 20px 0;
   left: 0;
-  bottom: 0;
   position: absolute;
+  bottom: 0;
   width: 100%;
 }
 
@@ -192,4 +192,13 @@ section {
 #representationText {
   flex: 5;
   width: 100%;
+}
+
+html, body {
+  min-height: 100vh;
+}
+
+main {
+  min-height: 100%;
+  position: relative;
 }
