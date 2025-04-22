@@ -182,4 +182,5 @@ section {
 .representation {
   display: flex;
   flex-direction: row;
+  flex: 5;
 }
