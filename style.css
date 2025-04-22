@@ -182,12 +182,14 @@ section {
 .representation {
   display: flex;
   flex-direction: row;
-  flex: 5;
+  width: 100vw;
 }
 
 #representationImage {
   flex: 5;
+  width: 100%;
 }
 #representationText {
   flex: 5;
+  width: 100%;
 }
