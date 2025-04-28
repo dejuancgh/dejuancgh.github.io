@@ -5,6 +5,8 @@
 body {
   background-color: #333;
   font-family: "Indie Flower", serif;
+  display: flex;
+  flex-direction: column;
 }
 
 nav{
