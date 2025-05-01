@@ -7,6 +7,9 @@ body {
   font-family: "Indie Flower", serif;
   display: flex;
   flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background-image: url("stage1SS.png");
 }
 
 nav{
@@ -74,6 +77,4 @@ main {
   left: 0;
   position: absolute;
   width: 100%;
-  margin: 0;
-  padding: 0;
 }
