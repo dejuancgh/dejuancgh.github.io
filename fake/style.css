@@ -22,7 +22,7 @@ nav{
 footer{
   background-color: #141414;
   text-align: center;
-  bottom: 0;
+  bottom: -1;
   left: 0;
   position: absolute;
   width: 100%;
@@ -71,4 +71,7 @@ a:hover{
 
 main {
   background-image: url("stage1SS.png");
+  left: 0;
+  position: absolute;
+  width: 100%;
 }
