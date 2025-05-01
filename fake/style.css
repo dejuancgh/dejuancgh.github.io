@@ -19,6 +19,7 @@ nav{
   position: absolute;
   width: 100%;
   height: fit-content;
+  z-index: 1;
 }
 
 footer{
