@@ -9,7 +9,6 @@ body {
   flex-direction: column;
   margin: 0;
   padding: 0;
-  background-image: url("stage1SS.png");
 }
 
 nav{
@@ -73,7 +72,6 @@ a:hover{
 }
 
 main {
-  background-image: url("stage1SS.png");
   left: 0;
   position: absolute;
   width: 100%;
