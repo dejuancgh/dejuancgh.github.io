@@ -1,0 +1,74 @@
+* {
+  color: white;
+}
+
+body {
+  background-color: #333;
+  font-family: "Indie Flower", serif;
+  display: flex;
+  flex-direction: column;
+}
+
+nav{
+  background-color: #141414;
+  text-align: center;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: fit-content;
+}
+
+footer{
+  background-color: #141414;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: fit-content;
+}
+
+nav a {
+  margin: 0 5px;
+  text-decoration: none;
+  font-family: "Nothing You Could Do", serif;
+  font-size: 123%;
+}
+
+a:hover{
+  color: green;
+}
+
+.nothing-you-could-do-regular {
+  font-family: "Nothing You Could Do", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.indie-flower-regular {
+  font-family: "Indie Flower", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.representation {
+  display: flex;
+  align-content: space-between;
+}
+
+.representationImg {
+  flex: 5;
+  border-radius: 10%;
+  margin: 0 5px;
+  width: 100px;
+}
+
+.representationP {
+  flex: 5;
+  margin: 0 5px;
+}
+
+main {
+    background-image: none;
+}
